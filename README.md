@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali Moeinian
+- 👋 Hi, I’m @Ali Moeinian , student of computer software engineering.
 - 👀 I’m interested in learning new technologies and all things related ro my field.
 - 🌱 I’m currently learning python and i'm coding my ideas every single day.
 - 💞️ I’m here to uploade my codes And I hope I can make progress.
