@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python and i'm coding my ideas every single day.
 - 💞️ I’m here to uploade my codes And I hope I make progress.
 - 📫 How to reach me :  eng.alimoeinain1379@gmail.com
-- 👀 I'm familiar with HTML, CSS, JS, Photoshop, Photoshop elements, wordpress, C++  , PHP and Golang                    
+- 👀 I really like programming and you can see various types of repositories on my profile.
+-     You can find different projects, challenges to learn new things and etc.               
 
 <!---
 AliMoeinian/AliMoeinian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
