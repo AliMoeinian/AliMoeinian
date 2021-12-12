@@ -4,7 +4,7 @@
 - 💞️ I’m here to uploade my codes And I hope I make progress.
 - 📫 How to reach me :  eng.alimoeinain1379@gmail.com
 - 👀 I really like programming and you can see various types of repositories on my profile.
--     You can find different projects, challenges to learn new things and etc.               
+- ✨ You can find different projects, challenges to learn new programming language or new technologies and etc.               
 
 <!---
 AliMoeinian/AliMoeinian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
