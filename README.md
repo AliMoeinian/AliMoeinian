@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ali Moeinian , student of computer software engineering.
 - 👀 I’m interested in learning new technologies and all things related to my field.
-- 🌱 I’m currently learning python and i'm coding my ideas every single day.
+- 🌱 I’m currently learning HTML,CSS and JavaScript and i'm coding my ideas every single day.
+- 💛 I know C++ and Python very well.
 - 💞️ I’m here to uploade my codes And I hope I make progress.
 - 📫 How to reach me :  eng.alimoeinain1379@gmail.com
 - 👀 I really like programming and you can see various types of repositories on my profile.
